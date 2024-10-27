@@ -40,21 +40,29 @@ Atliq decided to expand their business into Latin America, but unfortunately, th
 As a result, they recognized the need to establish a dedicated data analyst team to thoroughly analyze their business performance and make data-driven decisions that would enable them to grow their business successfully worldwide.
 
 ### Objective
-- The organization is currently experiencing a period of increased employee turnover.
-- In response, the organization has systematically gathered crucial information through employee feedback and exit interviews.
-- My role involves analyzing this data comprehensively to identify patterns and reasons behind the heightened attrition rate.
-- The objectives include providing insights on attrition rates by department, job role, and gender, understanding the reasons for attrition,
-  identifying contributing factors, and suggesting actionable recommendations to reduce the attrition rate and enhance the work environment.
+Atliq wants to make data driven decision making as a part of their work culture & taking their first step towards that by embedding Power BI in the Oraganisation.To establish a dedicated data analyst team that will provide comprehensive, data-driven insights into Atliq's business performance in Latin America, enabling strategic decision-making and minimizing reliance on surveys or predictions alone. This initiative aims to support Atliq’s growth in Latin America and drive sustainable, global expansion by leveraging accurate data analysis and actionable intelligence.+\
++
+\
+
+\
+
+To Create Dashboards & visuals for Various Departments like Finance, sales, Marketing & so on, depending on their needs to Visualize the Performance of their Products & Customers.
 
 
 ### Data Analysis:  
 
-### Executive Summary
+### Home Page:
+ This is the landing page of the Report where this takes you to all other pages of Finance, Sales, Marketing, Supply Chain & Executive views.
+
+      ![Atliq_Home_Viwe](https://github.com/user-attachments/assets/776e9c6d-c516-4668-86db-fc79026f9fab)
+
+       
+### Finance View:
 This Page presents a comprehensive view of overall attrition trends. 
 - Key metrics include Attrition Rate, Total Employees, Attrition Count and Attrition count by Department/Job Role/Gender/Age Category/Education.
 - Users can Interact with Visualization by using slicers for Gender/Department/Job Role.
 
-![Executive View](https://github.com/user-attachments/assets/a4038b3d-e636-46e2-958a-9b8fd7499e25)
+      ![Atliq_Finance_view](https://github.com/user-attachments/assets/7cc476c4-fe0d-4641-87a2-2115dec76c72)
 
  
  1. Total Head Count, Attrition Count and Attrition Rate.
@@ -98,7 +106,7 @@ This Page presents a comprehensive view of overall attrition trends.
       ![2024-10-25_13h08_59](https://github.com/user-attachments/assets/e4c542ad-2dbd-4252-b2d3-88de11f9e5d3)
 
 
-### Workforce Analysis
+### Sales View
 
 This page presents a comprehensive view of Workforce. 
 - By establishing a relation, with Attrition Rates to various metrics such as Average Monthly Salary, Average Monthly Rate, Average Training times last year  gives key valuable Insights that leads to higher Attrition Rates.
@@ -132,7 +140,7 @@ This page presents a comprehensive view of Workforce.
       ![2024-10-25_13h09_51](https://github.com/user-attachments/assets/8a0c8fd4-6cca-4059-ab91-3ff47f935113)
 
 
-### Correlation Analysis
+### Marketing View
 This page shows a comprehensive view of various rating correlations with Attrition. 
   - Key metrics include indices like Environment satisfaction Index, Job satisfaction index, Job Involvement Index, Average Tenure at the Company by Job Role are there in this Page.
 
@@ -160,7 +168,10 @@ This page shows a comprehensive view of various rating correlations with Attriti
 4. Managerial Change Rate Vs Attrition Rate:
     - Sales Represenetative is the Job Role which has the Highest of 0.4 as Managerial Change Rate has the highest Attrition Rate of 39.76%.
 
-    ![2024-10-25_13h10_51](https://github.com/user-attachments/assets/8d81e504-543d-454b-be86-f67c65621c91)
+    ![2024-10-25_13h10_51](https://github.com/user-attachments/assets/8d81e504-543d-454b-be86-f67c65621c91) 
+
+### Supply Chain View
+### Executive View
 
 ### Key Insights
 
