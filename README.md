@@ -23,13 +23,14 @@ For Detailed Explanation, kindly check the [Link to Video Presentation](https://
 - [Conclusion](#conclusion)
   
 ### Project Overview
-AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data analytics to gain a competitive edge and make informed decisions. This project aims to provide insights into various aspects such as finance, sales, marketing, and supply chain. This data analysis project aims to provide valuable insights to the Organisation on reducing Attrition Rates and suggest some Actionable 
-recommendations to improve better work Environment.  
+AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data analytics to gain a competitive edge and make informed decisions. This project aims to provide insights into various aspects such as finance, sales, marketing, and supply chain. 
 
 #### Data Sources
-Employee data: The primary dataset is in CSV file "Hr-Employee-Attrition.csv" containing Employee Details of the Organisation.
+The primary data sources are from the database & an Excel workbook.
 
 ### Tools Used
+- Mysql Database : For Data Import
+- Excel : For Data Import
 - PowerBI Desktop : For Analysis
 - MS PowerPoint : For Presentation
 - Screenpresso : For Recording Video
