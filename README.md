@@ -2,7 +2,7 @@
 
 [Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGJiMGMyZmEtN2NkNi00MzFhLWEwMDktNjI4ZTUyYWQ4MTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-[Link to Video Presentation](https://youtu.be/BFtLY7gSMtY) 
+For Detailed Explanation,kindly check the [Link to Video Presentation](https://youtu.be/BFtLY7gSMtY) 
 
 ## Table of Contents
 - [Project Overview](#project-overview) 
@@ -44,8 +44,7 @@ Atliq wants to make data driven decision making as a part of their work culture 
 
 ### Data Analysis:  
 
-### Home Page:
- This is the landing page of the Report where this takes you to all other pages of Finance, Sales, Marketing, Supply Chain & Executive views.
+### Home View:
 
 ![Atliq_Home_Viwe](https://github.com/user-attachments/assets/776e9c6d-c516-4668-86db-fc79026f9fab)
 
