@@ -1,6 +1,6 @@
 # AtliQ-Business-Insights-360-Project
 
-Click to View the[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGJiMGMyZmEtN2NkNi00MzFhLWEwMDktNjI4ZTUyYWQ4MTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Click to View the [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGJiMGMyZmEtN2NkNi00MzFhLWEwMDktNjI4ZTUyYWQ4MTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 For Detailed Explanation, kindly check the [Link to Video Presentation](https://youtu.be/BFtLY7gSMtY) 
 
