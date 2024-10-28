@@ -120,4 +120,4 @@ The Atliq Business Insights 360 project provided a comprehensive, department-wis
 Through this initiative, Atliq now has a clear, data-backed roadmap that not only addresses immediate concerns but also supports long-term strategic planning, aligning with the company's goals for sustainable growth. Ultimately, this project serves as a pivotal step toward achieving Atliq’s business objectives by ensuring each department operates optimally and is aligned with the broader mission of expanding successfully worldwide.
 
 
-### Project Submitted by Aarthi Duraisingam
+### Project Submitted by [Aarthi Duraisingam](https://www.linkedin.com/in/aarthi-duraisingam-2438b7248/) 
