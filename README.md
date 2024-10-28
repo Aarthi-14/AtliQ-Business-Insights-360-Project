@@ -18,8 +18,8 @@
       - [Executive View](#executive-view)
       - [Client Request](#client-request)
 - [Key Insights](#key-insights)
-- [Succession Planning](#succession-planning)
 - [Recommendations](#recommendations)
+- [Key Learnings](#key-learnings)
 - [Conclusion](#conclusion)
   
 ### Project Overview
@@ -116,4 +116,9 @@ Through this Project, I have learned
 - Performance Optimization through DAX Studio
 
 ### Conclusion:
-In conclusion, this HR Attrition Analysis project has provided valuable insights into the organization's workforce dynamics. By analyzing trends, identifying key factors contributing to attrition, and offering actionable recommendations, this analysis contributes to informed decision-making. We acknowledge the lessons learned during this project and look forward to applying these insights in future HR analytics initiatives.
+The Atliq Business Insights 360 project provided a comprehensive, department-wise analysis that empowers the organization with critical insights into key performance areas. By leveraging data from each department, we were able to pinpoint challenges, identify growth opportunities, and offer actionable recommendations tailored to each business function. This level of detailed analysis enables Atliq to shift from reliance on assumptions to making informed, data-driven decisions, helping solve underlying issues that previously hindered performance.
+
+Through this initiative, Atliq now has a clear, data-backed roadmap that not only addresses immediate concerns but also supports long-term strategic planning, aligning with the company's goals for sustainable growth. Ultimately, this project serves as a pivotal step toward achieving Atliq’s business objectives by ensuring each department operates optimally and is aligned with the broader mission of expanding successfully worldwide.
+
+
+### Project Submitted by Aarthi Duraisingam
